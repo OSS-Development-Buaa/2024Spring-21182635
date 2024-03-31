@@ -1,7 +1,0 @@
-echo "# 2024Spring-21182635" >> README.md 
-git init 
-git add README.md 
-git commit -m “第一次提交” 
-git分支 -M main 
-git 远程添加原点https://github.com/OSS-Development-Buaa/ 2024Spring-21182635.git
- git push -u origin main
